@@ -80,3 +80,5 @@ Then open your browser at [http://localhost:8501](http://localhost:8501)
 ---
 
 ![image](https://github.com/user-attachments/assets/51fd0eb8-1282-44ee-a176-5120ebb27fbe)
+
+![image](https://github.com/user-attachments/assets/f57eb6b4-351e-4976-900d-eb19fe30df56)
