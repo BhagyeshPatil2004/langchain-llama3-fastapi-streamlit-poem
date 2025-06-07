@@ -54,10 +54,15 @@ Then open your browser at [http://localhost:8501](http://localhost:8501)
 ## 📁 Project Structure
 
 \`\`\`
+
 ├── main.py          # FastAPI + LangChain + Ollama backend
+
 ├── client.py        # Streamlit frontend
+
 ├── requirements.txt # Python dependencies
+
 └── README.md        # Project documentation
+
 \`\`\`
 
 ---
