@@ -21,13 +21,13 @@ This is a lightweight AI-powered poem generator built using [LangChain](https://
 - [Ollama installed](https://ollama.com/)
 - Pull the LLaMA 3 model:
 
-\`\`\`bash
+\`\`\`
 ollama pull llama3
 \`\`\`
 
 ### 2. Setup
 
-\`\`\`bash
+\`\`\`
 git clone https://github.com/BhagyeshPatil2004/langchain-fastapi-ollama.git
 cd langchain-fastapi-ollama
 python -m venv .venv
@@ -37,13 +37,13 @@ pip install -r requirements.txt
 
 ### 3. Run FastAPI backend
 
-\`\`\`bash
+\`\`\`
 uvicorn main:app --reload
 \`\`\`
 
 ### 4. Run Streamlit frontend
 
-\`\`\`bash
+\`\`\`
 streamlit run client.py
 \`\`\`
 
@@ -78,3 +78,5 @@ Then open your browser at [http://localhost:8501](http://localhost:8501)
 [Bhagyesh Patil](https://github.com/BhagyeshPatil2004)
 
 ---
+
+![image](https://github.com/user-attachments/assets/51fd0eb8-1282-44ee-a176-5120ebb27fbe)
